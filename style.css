@@ -1,0 +1,93 @@
+h1{
+    
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-style: double;
+    background-color: gray
+
+
+}
+
+h2 p{
+    color: beige;
+    text-align: center;
+    background:grey;
+    border-radius: 50px;
+    width: 100%  
+    
+    
+}
+
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    font-size: x-large;
+    text-align: justify;
+    
+}
+
+nav ul li a{
+    border-color: black;
+    font-size: larger;
+    list-style-position: outside;
+    list-style-type: none;
+    text-align: center;
+    border-style: double;
+    text-decoration: none;
+    background-color: gray;
+    
+}
+    
+
+    
+       
+table th {
+    text-align: center;
+    border-bottom-left-radius: 10%;
+
+
+}
+table td tr {
+    text-decoration: none;
+    color: white;
+    border-bottom: 20px;
+    border-style: double;
+    text-align: center;
+    
+    
+
+}
+label{
+    color: white;
+    background: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: double;
+    transform-box: border-box;
+    
+}   
+
+    
+
+
+
+  
+
+
+
+
+
+
+
+
+
+    
+    
+   
+
+    
+
+    
+
